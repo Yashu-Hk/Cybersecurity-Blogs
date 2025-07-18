@@ -1,0 +1,6 @@
+title: Cybersecurity Blog
+description: A beginner’s journey into cybersecurity
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
